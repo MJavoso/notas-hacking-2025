@@ -18,3 +18,16 @@ Marco Antonio Pinedo Del Rio
 8. [Plumbing](/picoCTF/General%20Skills/08-Plumbing.md)
 9. [Glitch cat](/picoCTF/General%20Skills/09-Glitch%20cat.md)
 10. [Nice netcat](/picoCTF/General%20Skills/10-Nice%20netcat.md)
+
+###### Parte 2
+1. [Based](/picoCTF/General%20Skills/11-Based.md)
+2. [Strings it](/picoCTF/General%20Skills/12/Strings%20it.md)
+3. [Wave a flag](/picoCTF/General%20Skills/13-Wave%20a%20flag.md)
+4. [Static ain't always noise](/picoCTF/General%20Skills/14-Static%20ain't%20always%20noise.md)
+5. [useless](/picoCTF/General%20Skills/15-useless.md)
+6. [Tab, Tab, Attack](/picoCTF/General%20Skills/16-Tab,%20Tab,%20Attack.md)
+7. [Magikarp Ground Mission](/picoCTF/General%20Skills/17-Magikarp%20Ground%20Mission.md)
+8. [repetitions](/picoCTF/General%20Skills/18-repetitions.md)
+9. [Big Zip](/picoCTF/General%20Skills/19-Big%20Zip.md)
+10. [First Find](/picoCTF/General%20Skills/20-First%20Find.md)
+Yay
