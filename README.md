@@ -30,4 +30,15 @@ Marco Antonio Pinedo Del Rio
 8. [repetitions](/picoCTF/General%20Skills/18-repetitions.md)
 9. [Big Zip](/picoCTF/General%20Skills/19-Big%20Zip.md)
 10. [First Find](/picoCTF/General%20Skills/20-First%20Find.md)
-Yay
+
+###### Parte 3
+1. [Super SSH](/picoCTF/General%20Skills/21-Super%20SSH.md)
+2. [runme.py](/picoCTF/General%20Skills/22-runme.py.md)
+3. [Codebook](/picoCTF/General%20Skills/23-Codebook.md)
+4. [convertme.py](/picoCTF/General%20Skills/24-convertme.py.md)
+5. [fixme1.py](/picoCTF/General%20Skills/25-fixme1.py.md)
+6. [fixme2.py](/picoCTF/General%20Skills/26-fixme2.py.md)
+7. [PW Crack 1](/picoCTF/General%20Skills/27-PW%20Crack%201.md)
+8. [PW Crack 2](/picoCTF/General%20Skills/28-PW%20Crack%202.md)
+9. [PW Crack 3](/picoCTF/General%20Skills/29-PW%20Crack%203.md)
+10. [Serpentine](/picoCTF/General%20Skills/30-Serpentine.md)
