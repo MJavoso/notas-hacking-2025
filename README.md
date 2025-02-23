@@ -42,3 +42,15 @@ Marco Antonio Pinedo Del Rio
 8. [PW Crack 2](/picoCTF/General%20Skills/28-PW%20Crack%202.md)
 9. [PW Crack 3](/picoCTF/General%20Skills/29-PW%20Crack%203.md)
 10. [Serpentine](/picoCTF/General%20Skills/30-Serpentine.md)
+
+###### Tarea 1
+1. [permissions](/picoCTF/General%20Skills/31-permissions.md)
+2. [chrono](/picoCTF/General%20Skills/32-chrono.md)
+3. [special](/picoCTF/General%20Skills/33-special.md)
+4. [committee issue](/picoCTF/General%20Skills/34-committee%20issue.md)
+5. [time machine](/picoCTF/General%20Skills/35-time%20machine.md)
+6. [blame game](/picoCTF/General%20Skills/36-blame%20game.md)
+7. [collaborative development](/picoCTF/General%20Skills/37-collaborative%20development.md)
+8. [binary search](/picoCTF/General%20Skills/38-binary%20search.md)
+9. [binhexa](/picoCTF/General%20Skills/39-binhexa.md)
+10. [ASCII Numbers](/picoCTF/General%20Skills/40-ASCII%20Numbers.md)
