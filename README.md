@@ -54,3 +54,13 @@ Marco Antonio Pinedo Del Rio
 8. [binary search](/picoCTF/General%20Skills/38-binary%20search.md)
 9. [binhexa](/picoCTF/General%20Skills/39-binhexa.md)
 10. [ASCII Numbers](/picoCTF/General%20Skills/40-ASCII%20Numbers.md)
+
+#### Web
+
+###### Tarea 1
+1. [Inspector](picoCTF/Web/01-Inspector.md)
+2. [Were are the robots](picoCTF/Web/02-Were%20are%20the%20robots.md)
+3. [logon](picoCTF/Web/03-logon.md)
+4. [dont-use-client-side](picoCTF/Web/04-dont-use-client-side.md)
+5. [picobrowser](picoCTF/Web/05-picobrowser.md)
+6. [Client-side-again](picoCTF/Web/06-Client-side-again.md)
