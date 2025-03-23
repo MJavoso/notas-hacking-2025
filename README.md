@@ -64,3 +64,6 @@ Marco Antonio Pinedo Del Rio
 4. [dont-use-client-side](picoCTF/Web/04-dont-use-client-side.md)
 5. [picobrowser](picoCTF/Web/05-picobrowser.md)
 6. [Client-side-again](picoCTF/Web/06-Client-side-again.md)
+7. [GET aHEAD](/picoCTF/Web/07-GET%20aHEAD.md)
+8. [Cookies](/picoCTF/Web/08-Cookies.md)
+9. [Scavenger Huntd](/picoCTF/Web/09-Scavenger%20Huntd.md)
