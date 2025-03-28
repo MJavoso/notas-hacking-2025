@@ -69,3 +69,8 @@ Marco Antonio Pinedo Del Rio
 1. [GET aHEAD](/picoCTF/Web/07-GET%20aHEAD.md)
 2. [Cookies](/picoCTF/Web/08-Cookies.md)
 3. [Scavenger Huntd](/picoCTF/Web/09-Scavenger%20Huntd.md)
+
+###### Tarea 3
+1. [Irish-Name-Repo 1](/picoCTF/Web/10-Irish-Name-Repo%201.md)
+2. [More SQLi](/picoCTF/Web/11-More%20SQLi.md)
+3. [JaWT Scratchpad](/picoCTF/Web/12-JaWT%20Scratchpad.md)
