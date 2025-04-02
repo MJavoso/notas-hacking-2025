@@ -74,3 +74,9 @@ Marco Antonio Pinedo Del Rio
 1. [Irish-Name-Repo 1](/picoCTF/Web/10-Irish-Name-Repo%201.md)
 2. [More SQLi](/picoCTF/Web/11-More%20SQLi.md)
 3. [JaWT Scratchpad](/picoCTF/Web/12-JaWT%20Scratchpad.md)
+
+###### Tarea 4
+1. [MatchTheRegex](/picoCTF/Web/13-MatchTheRegex.md)
+2. [SOAP](/picoCTF/Web/14-SOAP.md)
+3. [Trickster](/picoCTF/Web/15-Trickster.md)
+4. [Monster Cookies](/picoCTF/Web/16-Most%20Cookies.md)
