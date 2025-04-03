@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "ae1c416e96a5e2c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Web/16-Most Cookies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "16-Most Cookies"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,10 +168,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ae1c416e96a5e2c4",
+  "active": "a8ecda27d9ed4c7c",
   "lastOpenFiles": [
+    "picoCTF/Forensic/05-What Lies Within.md",
+    "picoCTF/Forensic/04-extensions.md",
+    "picoCTF/Forensic/03-Shark on wire 1.md",
+    "picoCTF/Forensic/02-So Meta.md",
+    "picoCTF/Forensic/01-Glory of the Garden.md",
     "README.md",
     "picoCTF/Web/16-Most Cookies.md",
+    "picoCTF/Forensic",
     "picoCTF/Web/15-Trickster.md",
     "picoCTF/Web/14-SOAP.md",
     "picoCTF/Web/13-MatchTheRegex.md",
@@ -207,11 +198,6 @@
     "picoCTF/Web",
     "picoCTF/General Skills/32-chrono.md",
     "picoCTF/General Skills/40-ASCII Numbers.md",
-    "picoCTF/General Skills/39-binhexa.md",
-    "picoCTF/General Skills/38-binary search.md",
-    "picoCTF/General Skills/37-collaborative development.md",
-    "picoCTF/General Skills/36-blame game.md",
-    "picoCTF/General Skills/35-time machine.md",
     "picoCTF/General Skills",
     "picoCTF"
   ]

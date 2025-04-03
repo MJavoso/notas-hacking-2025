@@ -80,3 +80,11 @@ Marco Antonio Pinedo Del Rio
 2. [SOAP](/picoCTF/Web/14-SOAP.md)
 3. [Trickster](/picoCTF/Web/15-Trickster.md)
 4. [Monster Cookies](/picoCTF/Web/16-Most%20Cookies.md)
+
+#### Forensic
+###### Tarea 1
+1. [Glory of the Garden](/picoCTF/Forensic/01-Glory%20of%20the%20Garden.md)
+2. [So Meta](/picoCTF/Forensic/02-So%20Meta.md)
+3. [Shark on wire 1](/picoCTF/Forensic/03-Shark%20on%20wire%201.md)
+4. [extensions](/picoCTF/Forensic/04-extensions.md)
+5. [What Lies Within](/picoCTF/Forensic/05-What%20Lies%20Within.md)
