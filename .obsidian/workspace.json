@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "picoCTF/Web/26-WebDecode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "26-WebDecode"
             }
           }
         ]
@@ -170,12 +170,22 @@
   },
   "active": "a8ecda27d9ed4c7c",
   "lastOpenFiles": [
+    "picoCTF/Web/24-SQLiLite.md",
+    "picoCTF/Web/23-Secrets.md",
+    "picoCTF/Web/22-Roboto Sans.md",
+    "picoCTF/Web/26-WebDecode.md",
+    "picoCTF/Web/21-Power Cookie.md",
+    "picoCTF/Web/25-Unminify.md",
+    "picoCTF/Web/20-Local Authority.md",
+    "picoCTF/Web/19-IntroToBurp.md",
+    "picoCTF/Web/18-Inspect HTML.md",
+    "picoCTF/Web/17-Includes.md",
+    "README.md",
     "picoCTF/Forensic/05-What Lies Within.md",
     "picoCTF/Forensic/04-extensions.md",
     "picoCTF/Forensic/03-Shark on wire 1.md",
     "picoCTF/Forensic/02-So Meta.md",
     "picoCTF/Forensic/01-Glory of the Garden.md",
-    "README.md",
     "picoCTF/Web/16-Most Cookies.md",
     "picoCTF/Forensic",
     "picoCTF/Web/15-Trickster.md",
@@ -187,17 +197,7 @@
     "picoCTF/Web/09-Scavenger Huntd.md",
     "picoCTF/Web/07-GET aHEAD.md",
     "picoCTF/Web/08-Cookies.md",
-    "picoCTF/Web/05-picobrowser.md",
-    "picoCTF/Web/06-Client-side-again.md",
-    "picoCTF/Web/02-Were are the robots.md",
-    "picoCTF/Web/03-logon.md",
-    "picoCTF/Web/01-Inspector.md",
-    "picoCTF/Web/04-dont-use-client-side.md",
-    "picoCTF/General Skills/01-Lets Warm Up.md",
-    "Sin título.md",
     "picoCTF/Web",
-    "picoCTF/General Skills/32-chrono.md",
-    "picoCTF/General Skills/40-ASCII Numbers.md",
     "picoCTF/General Skills",
     "picoCTF"
   ]

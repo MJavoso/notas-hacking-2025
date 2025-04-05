@@ -81,6 +81,17 @@ Marco Antonio Pinedo Del Rio
 3. [Trickster](/picoCTF/Web/15-Trickster.md)
 4. [Monster Cookies](/picoCTF/Web/16-Most%20Cookies.md)
 
+###### Tarea final
+1. [Includes](/picoCTF/Web/17-Includes.md)
+2. [Inspect HTML](/picoCTF/Web/18-Inspect%20HTML.md)
+3. [IntroToBurp](/picoCTF/Web/19-IntroToBurp.md)
+4. [Local Authority](/picoCTF/Web/20-Local%20Authority.md)
+5. [Power Cookie](/picoCTF/Web/21-Power%20Cookie.md)
+6. [Roboto Sans](/picoCTF/Web/22-Roboto%20Sans.md)
+7. [Secrets](/picoCTF/Web/23-Secrets.md)
+8. [SQLiLite](/picoCTF/Web/24-SQLiLite.md)
+9. [Unminify](/picoCTF/Web/25-Unminify.md)
+10. [WebDecode](/picoCTF/Web/26-WebDecode.md)
 #### Forensic
 ###### Tarea 1
 1. [Glory of the Garden](/picoCTF/Forensic/01-Glory%20of%20the%20Garden.md)
