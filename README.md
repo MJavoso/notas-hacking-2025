@@ -99,3 +99,10 @@ Marco Antonio Pinedo Del Rio
 3. [Shark on wire 1](/picoCTF/Forensic/03-Shark%20on%20wire%201.md)
 4. [extensions](/picoCTF/Forensic/04-extensions.md)
 5. [What Lies Within](/picoCTF/Forensic/05-What%20Lies%20Within.md)
+
+###### Tarea 2
+1. [m00nwalk](/picoCTF/Forensic/06-m00nwalk.md)
+2. [WhitePages](/picoCTF/Forensic/07-WhitePages.md)
+3. [c0rrupt](/picoCTF/Forensic/08-c0rrupt.md)
+4. [like1000](/picoCTF/Forensic/09-like1000.md)
+5. [shark on wire 2](/picoCTF/Forensic/10-shark%20on%20wire%202.md)
