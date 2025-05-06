@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web/Examen/WebSockFish.md",
+                "file": "picoCTF/Forensic/15-MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WebSockFish"
+              "title": "15-MacroHard WeakEdge"
             }
           }
         ],
@@ -185,6 +185,12 @@
   },
   "active": "72fb077f896fb1ac",
   "lastOpenFiles": [
+    "picoCTF/Forensic/14-tunn3l v1s10n.md",
+    "picoCTF/Forensic/15-MacroHard WeakEdge.md",
+    "picoCTF/Forensic/13-Matryoshka Doll.md",
+    "picoCTF/Forensic/12-Webnet1.md",
+    "picoCTF/Forensic/11-Webnet0.md",
+    "picoCTF/Web/Examen/WebSockFish.md",
     "picoCTF/Web/Examen/README.md",
     "picoCTF/Web/Examen/SSTI2.md",
     "picoCTF/Web/Examen/SSTI1.md",
@@ -205,12 +211,6 @@
     "picoCTF/Web/24-SQLiLite.md",
     "picoCTF/Web/25-Unminify.md",
     "picoCTF/Web/26-WebDecode.md",
-    "picoCTF/Web/Examen/head-dump.md",
-    "picoCTF/Web/Examen/Cookie Monster Secret Recipe.md",
-    "picoCTF/Web/Examen/Bookmarklet.md",
-    "picoCTF/Web/Examen/WebSockFish.md",
-    "picoCTF/General Skills/Examen/README.md",
-    "picoCTF/General Skills/Examen/Specialer.md",
     "picoCTF/Web/Examen",
     "picoCTF/General Skills/Examen",
     "picoCTF/Forensic",
