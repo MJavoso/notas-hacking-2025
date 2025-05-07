@@ -106,3 +106,10 @@ Marco Antonio Pinedo Del Rio
 3. [c0rrupt](/picoCTF/Forensic/08-c0rrupt.md)
 4. [like1000](/picoCTF/Forensic/09-like1000.md)
 5. [shark on wire 2](/picoCTF/Forensic/10-shark%20on%20wire%202.md)
+
+###### Tarea 3
+1. [Webnet0](/picoCTF/Forensic/11-Webnet0.md)
+2. [Webnet1](/picoCTF/Forensic/12-Webnet1.md)
+3. [Matryoshka Doll](/picoCTF/Forensic/13-Matryoshka%20Doll.md)
+4. [tunn3l v1s10n](/picoCTF/Forensic/14-tunn3l%20v1s10n.md)
+5. [MacroHard WeakEdge](/picoCTF/Forensic/15-MarcoHard%20WeakEdge.md)

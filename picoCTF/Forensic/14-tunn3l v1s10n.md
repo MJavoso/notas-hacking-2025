@@ -6,6 +6,6 @@ Hints:
 ## Solución
 Con el comando `xxd -l 100 tunn3l_v1s10n` se obtienen los primeros 100 bytes.
 Con `exiftool imagen` se obtienen los metadatos.
-Los datos del renglón 0 que están como `BAD0` hay que cambiarlos por `280`. Y los bytes del rengón 10 hay que cambiar `32 01` por `40 03`.
+Los datos del renglón 0 que están como `BA D0` hay que cambiarlos por `28 00`. Y los bytes del rengón 10 hay que cambiar `32 01` por `40 03`.
 
 `picoCTF{qu1t3_a_v13w_2020}`
