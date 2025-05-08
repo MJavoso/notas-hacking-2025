@@ -113,3 +113,11 @@ Marco Antonio Pinedo Del Rio
 3. [Matryoshka Doll](/picoCTF/Forensic/13-Matryoshka%20Doll.md)
 4. [tunn3l v1s10n](/picoCTF/Forensic/14-tunn3l%20v1s10n.md)
 5. [MacroHard WeakEdge](/picoCTF/Forensic/15-MarcoHard%20WeakEdge.md)
+
+###### Tarea 4
+1. [Milkslap](/picoCTF/Forensic/16-Milkslap.md)
+2. [Disk ,disk, sleuth!](/picoCTF/Forensic/17-Disk%20Disk%20sleuth.md)
+3. [Sleuthkit Intro](/picoCTF/Forensic/18-Sleuthkit%20Intro.md)
+4. [Sleuthkit Apprentice](/picoCTF/Forensic/19-Sleuthkit%20Apprentice.md)
+5. [Operation Orchid](/picoCTF/Forensic/20-Operation%20Orchid.md)
+6. [Operation Oni](/picoCTF/Forensic/21-Operation%20Oni.md)
