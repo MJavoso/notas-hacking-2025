@@ -1,3 +1,4 @@
+## Nombre Original: Disk, disk, sleuth!
 Use `srch_strings` from the sleuthkit and some terminal-fu to find a flag in this disk image: [dds1-alpine.flag.img.gz](https://mercury.picoctf.net/static/920731987787c93839776ce457d5ecd6/dds1-alpine.flag.img.gz)
 
 Hints:
