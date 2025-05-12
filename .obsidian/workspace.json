@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "72fb077f896fb1ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Forensic/21-Operation Oni.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "21-Operation Oni"
-            }
-          },
-          {
             "id": "4e7bbeb00072bbf3",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,9 +170,19 @@
   },
   "active": "4e7bbeb00072bbf3",
   "lastOpenFiles": [
+    "picoCTF/Forensic/31-flags are stepic.md",
+    "picoCTF/Forensic/30-Ph4ntom 1intrud3r.md",
+    "picoCTF/Forensic/29-RED.md",
+    "picoCTF/Forensic/28-Secret of the Polyglot.md",
+    "picoCTF/Forensic/27-CanYouSee.md",
+    "picoCTF/Forensic/26-Scan Surprise.md",
+    "picoCTF/Forensic/25-hideme.md",
+    "picoCTF/Forensic/24-Redaction gone wrong.md",
+    "README.md",
+    "picoCTF/Forensic/23-St3go.md",
+    "picoCTF/Forensic/22-information.md",
     "picoCTF/Forensic/17-Disk disk sleuth.md",
     "picoCTF/Forensic/21-Operation Oni.md",
-    "README.md",
     "picoCTF/Forensic/20-Operation Orchid.md",
     "picoCTF/Forensic/19-Sleuthkit Apprentice.md",
     "picoCTF/Forensic/18-Sleuthkit Intro.md",
@@ -201,16 +196,6 @@
     "picoCTF/Web/Examen/WebSockFish.md",
     "picoCTF/Web/Examen/SSTI2.md",
     "picoCTF/Web/Examen/SSTI1.md",
-    "picoCTF/Web/Examen/SQL Direct.md",
-    "picoCTF/Web/Examen/Java Code Analysis!%3F!.md",
-    "picoCTF/Web/Examen/findme.md",
-    "picoCTF/Web/Examen/n0s4n1ty 1.md",
-    "picoCTF/Web/15-Trickster.md",
-    "picoCTF/Web/16-Most Cookies.md",
-    "picoCTF/Web/17-Includes.md",
-    "picoCTF/Web/18-Inspect HTML.md",
-    "picoCTF/Web/19-IntroToBurp.md",
-    "picoCTF/Web/20-Local Authority.md",
     "picoCTF/Web/Examen",
     "picoCTF/General Skills/Examen",
     "picoCTF/Forensic",

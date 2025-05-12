@@ -121,3 +121,15 @@ Marco Antonio Pinedo Del Rio
 4. [Sleuthkit Apprentice](/picoCTF/Forensic/19-Sleuthkit%20Apprentice.md)
 5. [Operation Orchid](/picoCTF/Forensic/20-Operation%20Orchid.md)
 6. [Operation Oni](/picoCTF/Forensic/21-Operation%20Oni.md)
+
+###### Tarea Final
+1. [information](/picoCTF/Forensic/22-information.md)
+2. [St3go](/picoCTF/Forensic/23-St3go.md)
+3. [Redaction gone wrong](/picoCTF/Forensic/24-Redaction%20gone%20wrong.md)
+4. [hideme](/picoCTF/Forensic/25-hideme.md)
+5. [Scan Surprise](/picoCTF/Forensic/26-Scan%20Surprise.md)
+6. [CanYouSee](/picoCTF/Forensic/27-CanYouSee.md)
+7. [Secret of the Polyglot](/picoCTF/Forensic/28-Secret%20of%20the%20Polyglot.md)
+8. [RED](/picoCTF/Forensic/29-RED.md)
+9. [Ph4ntom 1ntrud3r](/picoCTF/Forensic/30-Ph4ntom%201intrud3r.md)
+10. [flags are stepic](/picoCTF/Forensic/31-flags%20are%20stepic.md)
