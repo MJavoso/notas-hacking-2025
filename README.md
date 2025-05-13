@@ -133,3 +133,15 @@ Marco Antonio Pinedo Del Rio
 8. [RED](/picoCTF/Forensic/29-RED.md)
 9. [Ph4ntom 1ntrud3r](/picoCTF/Forensic/30-Ph4ntom%201intrud3r.md)
 10. [flags are stepic](/picoCTF/Forensic/31-flags%20are%20stepic.md)
+
+#### Crypto
+
+###### Tarea 1
+1. [The numbers](/picoCTF/Crypto/1-The%20numbers.md)
+2. [13](/picoCTF/Crypto/2-13.md)
+3. [Cesar](/picoCTF/Crypto/3-Cesar.md)
+4. [Easy 1](/picoCTF/Crypto/4-Easy%201.md)
+5. [la cifra de](/picoCTF/Crypto/5-la%20cifra%20de.md)
+6. [Tapping](/picoCTF/Crypto/6-Tapping.md)
+7. [waves over lambda](/picoCTF/Crypto/7-waves%20over%20lambda.md)
+8. [interencdec](/picoCTF/Crypto/8-interencdec.md)
