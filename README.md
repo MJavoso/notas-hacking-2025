@@ -145,3 +145,6 @@ Marco Antonio Pinedo Del Rio
 6. [Tapping](/picoCTF/Crypto/6-Tapping.md)
 7. [waves over lambda](/picoCTF/Crypto/7-waves%20over%20lambda.md)
 8. [interencdec](/picoCTF/Crypto/8-interencdec.md)
+
+###### Tarea 2
+1. [rsa pop quiz](/picoCTF/Crypto/9-rsa%20pop%20quiz.md)
