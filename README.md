@@ -148,3 +148,9 @@ Marco Antonio Pinedo Del Rio
 
 ###### Tarea 2
 1. [rsa pop quiz](/picoCTF/Crypto/9-rsa%20pop%20quiz.md)
+
+###### Tarea 3
+1. [Mini RSA](/picoCTF/Crypto/10-Mini%20RSA.md)  
+2. [Mind your Ps and Qs](/picoCTF/Crypto/11-Mind%20your%20Ps%20and%20Qs.md)
+3. [b00tl3gRSA2](/picoCTF/Crypto/12-b00tl3gRSA2.md)
+4. [13-b00tl3gRSA3](/picoCTF/Crypto/13-b00tl3gRSA3.md)
